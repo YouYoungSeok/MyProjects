@@ -1,0 +1,15 @@
+C:\CSharp\Xamarin_forms\lec03pjt0001\lec03pjt0001\lec03pjt0001\bin\Debug\netstandard2.0\lec03pjt0001.deps.json
+C:\CSharp\Xamarin_forms\lec03pjt0001\lec03pjt0001\lec03pjt0001\bin\Debug\netstandard2.0\lec03pjt0001.dll
+C:\CSharp\Xamarin_forms\lec03pjt0001\lec03pjt0001\lec03pjt0001\bin\Debug\netstandard2.0\ref\lec03pjt0001.dll
+C:\CSharp\Xamarin_forms\lec03pjt0001\lec03pjt0001\lec03pjt0001\bin\Debug\netstandard2.0\lec03pjt0001.pdb
+C:\CSharp\Xamarin_forms\lec03pjt0001\lec03pjt0001\lec03pjt0001\obj\Debug\netstandard2.0\lec03pjt0001.csproj.AssemblyReference.cache
+C:\CSharp\Xamarin_forms\lec03pjt0001\lec03pjt0001\lec03pjt0001\obj\Debug\netstandard2.0\lec03pjt0001.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Xamarin_forms\lec03pjt0001\lec03pjt0001\lec03pjt0001\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\CSharp\Xamarin_forms\lec03pjt0001\lec03pjt0001\lec03pjt0001\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\CSharp\Xamarin_forms\lec03pjt0001\lec03pjt0001\lec03pjt0001\obj\Debug\netstandard2.0\lec03pjt0001.AssemblyInfoInputs.cache
+C:\CSharp\Xamarin_forms\lec03pjt0001\lec03pjt0001\lec03pjt0001\obj\Debug\netstandard2.0\lec03pjt0001.AssemblyInfo.cs
+C:\CSharp\Xamarin_forms\lec03pjt0001\lec03pjt0001\lec03pjt0001\obj\Debug\netstandard2.0\lec03pjt0001.csproj.CoreCompileInputs.cache
+C:\CSharp\Xamarin_forms\lec03pjt0001\lec03pjt0001\lec03pjt0001\obj\Debug\netstandard2.0\XamlC.stamp
+C:\CSharp\Xamarin_forms\lec03pjt0001\lec03pjt0001\lec03pjt0001\obj\Debug\netstandard2.0\lec03pjt0001.dll
+C:\CSharp\Xamarin_forms\lec03pjt0001\lec03pjt0001\lec03pjt0001\obj\Debug\netstandard2.0\ref\lec03pjt0001.dll
+C:\CSharp\Xamarin_forms\lec03pjt0001\lec03pjt0001\lec03pjt0001\obj\Debug\netstandard2.0\lec03pjt0001.pdb
