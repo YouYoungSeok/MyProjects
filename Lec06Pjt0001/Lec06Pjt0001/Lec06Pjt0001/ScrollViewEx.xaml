@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lec06Pjt0001.ScrollViewEx">
+    <ContentPage.Content>
+        <ScrollView> <!--ScrollView : StackLayout 이 너무 길때 위, 아래 / 좌, 우로 스크롤 할 수 있게 해줌 -->
+            <StackLayout> <!-- sackLayout : sackLayout 있는 View(Lebel 등등) 들을 스텍같이 쌓는것 -->
+            <!-- 기본적으로 Orientation이 Vertical 임 그래서 밑으로 쌓임  -->
+                <Label Text=" Item 01 " BackgroundColor="#ffff00" Padding="15"/>
+                <Label Text=" Item 02 " BackgroundColor="#ffff00" Padding="15"/>
+                <Label Text=" Item 03 " BackgroundColor="#ffff00" Padding="15"/>
+                <Label Text=" Item 04 " BackgroundColor="#ffff00" Padding="15"/>
+                <Label Text=" Item 05 " BackgroundColor="#ffff00" Padding="15"/>
+                <Label Text=" Item 06 " BackgroundColor="#ffff00" Padding="15"/>
+                <Label Text=" Item 07 " BackgroundColor="#ffff00" Padding="15"/>
+                <Label Text=" Item 08 " BackgroundColor="#ffff00" Padding="15"/>
+                <Label Text=" Item 09 " BackgroundColor="#ffff00" Padding="15"/>
+                <Label Text=" Item 10 " BackgroundColor="#ffff00" Padding="15"/>
+                <Label Text=" Item 11 " BackgroundColor="#ffff00" Padding="15"/>
+                <Label Text=" Item 12 " BackgroundColor="#ffff00" Padding="15"/>
+                <Label Text=" Item 13 " BackgroundColor="#ffff00" Padding="15"/>
+                <Label Text=" Item 14 " BackgroundColor="#ffff00" Padding="15"/>
+                <Label Text=" Item 15 " BackgroundColor="#ffff00" Padding="15"/>
+                <Label Text=" Item 16 " BackgroundColor="#ffff00" Padding="15"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:Lec06Pjt0001"
+             x:Class="Lec06Pjt0001.ContentViewEx">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout BackgroundColor="#00ff00">
+
+                <local:MyContentView Name="박찬호" Major="Baseball" Nation="Korean" Gender="Male" Age="47"/>
+                <local:MyContentView Name="이승엽" Major="Baseball" Nation="Korean" Gender="Male" Age="45"/>
+                <local:MyContentView Name="류현진" Major="Baseball" Nation="Korean" Gender="Male" Age="30"/>
+                <local:MyContentView Name="추신수" Major="Baseball" Nation="Korean" Gender="Male" Age="46"/>
+                <local:MyContentView Name="손흥민" Major="Soccer" Nation="Korean" Gender="Male" Age="28"/>
+                <local:MyContentView Name="박찬호" Major="Baseball" Nation="Korean" Gender="Male" Age="47"/>
+                <local:MyContentView Name="이승엽" Major="Baseball" Nation="Korean" Gender="Male" Age="45"/>
+                <local:MyContentView Name="류현진" Major="Baseball" Nation="Korean" Gender="Male" Age="30"/>
+                <local:MyContentView Name="추신수" Major="Baseball" Nation="Korean" Gender="Male" Age="46"/>
+                <local:MyContentView Name="손흥민" Major="Soccer" Nation="Korean" Gender="Male" Age="28"/>
+                <local:MyContentView Name="박찬호" Major="Baseball" Nation="Korean" Gender="Male" Age="47"/>
+                <local:MyContentView Name="이승엽" Major="Baseball" Nation="Korean" Gender="Male" Age="45"/>
+                <local:MyContentView Name="류현진" Major="Baseball" Nation="Korean" Gender="Male" Age="30"/>
+                <local:MyContentView Name="추신수" Major="Baseball" Nation="Korean" Gender="Male" Age="46"/>
+                <local:MyContentView Name="손흥민" Major="Soccer" Nation="Korean" Gender="Male" Age="28"/>
+                <local:MyContentView Name="박찬호" Major="Baseball" Nation="Korean" Gender="Male" Age="47"/>
+                <local:MyContentView Name="이승엽" Major="Baseball" Nation="Korean" Gender="Male" Age="45"/>
+                <local:MyContentView Name="류현진" Major="Baseball" Nation="Korean" Gender="Male" Age="30"/>
+                <local:MyContentView Name="추신수" Major="Baseball" Nation="Korean" Gender="Male" Age="46"/>
+                <local:MyContentView Name="손흥민" Major="Soccer" Nation="Korean" Gender="Male" Age="28"/>
+                <local:MyContentView Name="박찬호" Major="Baseball" Nation="Korean" Gender="Male" Age="47"/>
+                <local:MyContentView Name="이승엽" Major="Baseball" Nation="Korean" Gender="Male" Age="45"/>
+                <local:MyContentView Name="류현진" Major="Baseball" Nation="Korean" Gender="Male" Age="30"/>
+                <local:MyContentView Name="추신수" Major="Baseball" Nation="Korean" Gender="Male" Age="46"/>
+                <local:MyContentView Name="손흥민" Major="Soccer" Nation="Korean" Gender="Male" Age="28"/>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

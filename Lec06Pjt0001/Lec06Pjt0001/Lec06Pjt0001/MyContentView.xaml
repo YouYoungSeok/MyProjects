@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lec06Pjt0001.MyContentView">
+      <ContentView.Content>
+            <StackLayout Orientation="Horizontal" BackgroundColor="#ffff00">
+                <Label x:Name="pName" Text="박찬호" Padding="7" BackgroundColor="#ff0000" FontSize="20" />
+                <Label x:Name="pMajor" Text="Baseball" Padding="7" BackgroundColor="#ff0000" FontSize="20" />
+                <Label x:Name="pNation" Text="Korea" Padding="7" BackgroundColor="#ff0000" FontSize="20" />
+                <Label x:Name="pGender" Text="Male" Padding="7" BackgroundColor="#ff0000" FontSize="20" />
+                <Label x:Name="pAge" Text="48" Padding="7" BackgroundColor="#ff0000" FontSize="20" />
+            </StackLayout>
+      </ContentView.Content>
+</ContentView>

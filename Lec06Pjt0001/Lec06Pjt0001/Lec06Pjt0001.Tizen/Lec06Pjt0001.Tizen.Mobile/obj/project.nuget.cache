@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "PLtEjmsc9hIPFk6l1NZiTyGM0ubpZCQQkWlHDqjSLD5mKZos9o80BoD+9kXwkSgEUXhQ7Su+AZ3G9dWzZ/JwqQ==",
+  "success": true,
+  "projectFilePath": "C:\\CSharp\\Xamarin_forms\\Lec06Pjt0001\\Lec06Pjt0001\\Lec06Pjt0001.Tizen\\Lec06Pjt0001.Tizen.Mobile\\Lec06Pjt0001.Tizen.Mobile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ysyou\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\ysyou\\.nuget\\packages\\skiasharp\\2.80.2\\skiasharp.2.80.2.nupkg.sha512",
+    "C:\\Users\\ysyou\\.nuget\\packages\\skiasharp.views\\2.80.2\\skiasharp.views.2.80.2.nupkg.sha512",
+    "C:\\Users\\ysyou\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\ysyou\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\ysyou\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\ysyou\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\ysyou\\.nuget\\packages\\tizen.net\\8.0.0.15631\\tizen.net.8.0.0.15631.nupkg.sha512",
+    "C:\\Users\\ysyou\\.nuget\\packages\\tizen.net.api5\\5.0.0.14638\\tizen.net.api5.5.0.0.14638.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

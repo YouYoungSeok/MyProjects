@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lec06Pjt0001.FrameEx">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+            <!--Frame 사용  -->
+            <Frame HasShadow="True" VerticalOptions="Start" Padding="5">
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="홍길동" Padding="10"/>
+                    <Label Text="010-2222-5678" Padding="10"/>
+                    <Label Text="abc@gmail.com" Padding="10"/>
+                </StackLayout>
+            </Frame>
+
+            <Frame HasShadow="True" VerticalOptions="Start" Padding="5">
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="김길동" Padding="10"/>
+                    <Label Text="010-3333-5678" Padding="10"/>
+                    <Label Text="abc@gmail.com" Padding="10"/>
+                </StackLayout>
+            </Frame>
+
+            <Frame HasShadow="True" VerticalOptions="Start" Padding="5">
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="최길동" Padding="10"/>
+                    <Label Text="010-4444-5678" Padding="10"/>
+                    <Label Text="abc@gmail.com" Padding="10"/>
+                </StackLayout>
+            </Frame>
+
+            <Frame HasShadow="True" VerticalOptions="Start" Padding="5">
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="길동" Padding="10"/>
+                    <Label Text="010-5555-5678" Padding="10"/>
+                    <Label Text="abc@gmail.com" Padding="10"/>
+                </StackLayout>
+            </Frame>
+            <Frame HasShadow="True" VerticalOptions="Start" Padding="5">
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="최길동" Padding="10"/>
+                    <Label Text="010-4444-5678" Padding="10"/>
+                    <Label Text="abc@gmail.com" Padding="10"/>
+                </StackLayout>
+            </Frame>
+
+            <Frame HasShadow="True" VerticalOptions="Start" Padding="5">
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="길동" Padding="10"/>
+                    <Label Text="010-5555-5678" Padding="10"/>
+                    <Label Text="abc@gmail.com" Padding="10"/>
+                </StackLayout>
+            </Frame>
+            <Frame HasShadow="True" VerticalOptions="Start" Padding="5">
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="최길동" Padding="10"/>
+                    <Label Text="010-4444-5678" Padding="10"/>
+                    <Label Text="abc@gmail.com" Padding="10"/>
+                </StackLayout>
+            </Frame>
+
+            <Frame HasShadow="True" VerticalOptions="Start" Padding="5">
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="길동" Padding="10"/>
+                    <Label Text="010-5555-5678" Padding="10"/>
+                    <Label Text="abc@gmail.com" Padding="10"/>
+                </StackLayout>
+            </Frame>
+            <Frame HasShadow="True" VerticalOptions="Start" Padding="5">
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="최길동" Padding="10"/>
+                    <Label Text="010-4444-5678" Padding="10"/>
+                    <Label Text="abc@gmail.com" Padding="10"/>
+                </StackLayout>
+            </Frame>
+
+            <Frame HasShadow="True" VerticalOptions="Start" Padding="5">
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="길동" Padding="10"/>
+                    <Label Text="010-5555-5678" Padding="10"/>
+                    <Label Text="abc@gmail.com" Padding="10"/>
+                </StackLayout>
+            </Frame>
+            <Frame HasShadow="True" VerticalOptions="Start" Padding="5">
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="최길동" Padding="10"/>
+                    <Label Text="010-4444-5678" Padding="10"/>
+                    <Label Text="abc@gmail.com" Padding="10"/>
+                </StackLayout>
+            </Frame>
+
+            <Frame HasShadow="True" VerticalOptions="Start" Padding="5">
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="길동" Padding="10"/>
+                    <Label Text="010-5555-5678" Padding="10"/>
+                    <Label Text="abc@gmail.com" Padding="10"/>
+                </StackLayout>
+            </Frame>
+
+            <Frame HasShadow="True" VerticalOptions="Start" Padding="5">
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="길동" Padding="10"/>
+                    <Label Text="010-5555-5678" Padding="10"/>
+                    <Label Text="abc@gmail.com" Padding="10"/>
+                </StackLayout>
+            </Frame>
+                <Frame HasShadow="True" VerticalOptions="Start" Padding="5">
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="최길동" Padding="10"/>
+                        <Label Text="010-4444-5678" Padding="10"/>
+                        <Label Text="abc@gmail.com" Padding="10"/>
+                    </StackLayout>
+                </Frame>
+
+                <Frame HasShadow="True" VerticalOptions="Start" Padding="5">
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="길동" Padding="10"/>
+                        <Label Text="010-5555-5678" Padding="10"/>
+                        <Label Text="abc@gmail.com" Padding="10"/>
+                    </StackLayout>
+                </Frame>
+
+                <Frame HasShadow="True" VerticalOptions="Start" Padding="5">
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="길동" Padding="10"/>
+                        <Label Text="010-5555-5678" Padding="10"/>
+                        <Label Text="abc@gmail.com" Padding="10"/>
+                    </StackLayout>
+                </Frame>
+                <Frame HasShadow="True" VerticalOptions="Start" Padding="5">
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="최길동" Padding="10"/>
+                        <Label Text="010-4444-5678" Padding="10"/>
+                        <Label Text="abc@gmail.com" Padding="10"/>
+                    </StackLayout>
+                </Frame>
+
+                <Frame HasShadow="True" VerticalOptions="Start" Padding="5">
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="길동" Padding="10"/>
+                        <Label Text="010-5555-5678" Padding="10"/>
+                        <Label Text="abc@gmail.com" Padding="10"/>
+                    </StackLayout>
+                </Frame>
+
+                <Frame HasShadow="True" VerticalOptions="Start" Padding="5">
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="길동" Padding="10"/>
+                        <Label Text="010-5555-5678" Padding="10"/>
+                        <Label Text="abc@gmail.com" Padding="10"/>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
