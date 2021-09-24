@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lec08Pjt0001.StackEx">
+    <ContentPage.Content>
+        <ScrollView Orientation="Horizontal">
+        <StackLayout Spacing="30" Orientation="Horizontal">
+
+            <Label Text="Label01" BackgroundColor="#ff0000"/>
+            <Label Text="Label02" BackgroundColor="#ff0000"/>
+            <Label Text="Label03" BackgroundColor="#ff0000"/>
+            <Label Text="Label04" BackgroundColor="#ff0000"/>
+            <Label Text="Label05" BackgroundColor="#ff0000"/>
+            <Label Text="Label06" BackgroundColor="#ff0000"/>
+            <Label Text="Label07" BackgroundColor="#ff0000"/>
+            <Label Text="Label08" BackgroundColor="#ff0000"/>
+            <Label Text="Label09" BackgroundColor="#ff0000"/>
+            <Label Text="Label10" BackgroundColor="#ff0000"/>
+            <Label Text="Label11" BackgroundColor="#ff0000"/>
+            <Label Text="Label12" BackgroundColor="#ff0000"/>
+            <Label Text="Label13" BackgroundColor="#ff0000"/>
+            <Label Text="Label14" BackgroundColor="#ff0000"/>
+            <Label Text="Label15" BackgroundColor="#ff0000"/>
+
+        </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lec08Pjt0001.TableEx">
+    <ContentPage.Content>
+        <TableView>
+            <TableRoot>
+                <TableSection Title="Mail">
+                    <SwitchCell Text="New Voice Mail"/>
+                    <SwitchCell Text="New Mail"/>
+                </TableSection>
+
+                <TableSection Title="Message">
+                    <!--SwitchCell : 토글 -->
+                    <SwitchCell Text="New Shot Message Service"/>
+                    <SwitchCell Text="New Multimedia Message Service"/>
+                </TableSection>
+                
+            </TableRoot>
+        </TableView>
+    </ContentPage.Content>
+</ContentPage>
