@@ -1,0 +1,17 @@
+C:\CSharp\Xamarin_forms\Lec14Pjt0001\Lec14Pjt0001\Lec14Pjt0001\bin\Debug\netstandard2.0\Lec14Pjt0001.deps.json
+C:\CSharp\Xamarin_forms\Lec14Pjt0001\Lec14Pjt0001\Lec14Pjt0001\bin\Debug\netstandard2.0\Lec14Pjt0001.dll
+C:\CSharp\Xamarin_forms\Lec14Pjt0001\Lec14Pjt0001\Lec14Pjt0001\bin\Debug\netstandard2.0\ref\Lec14Pjt0001.dll
+C:\CSharp\Xamarin_forms\Lec14Pjt0001\Lec14Pjt0001\Lec14Pjt0001\bin\Debug\netstandard2.0\Lec14Pjt0001.pdb
+C:\CSharp\Xamarin_forms\Lec14Pjt0001\Lec14Pjt0001\Lec14Pjt0001\obj\Debug\netstandard2.0\Lec14Pjt0001.csproj.AssemblyReference.cache
+C:\CSharp\Xamarin_forms\Lec14Pjt0001\Lec14Pjt0001\Lec14Pjt0001\obj\Debug\netstandard2.0\Lec14Pjt0001.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Xamarin_forms\Lec14Pjt0001\Lec14Pjt0001\Lec14Pjt0001\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\CSharp\Xamarin_forms\Lec14Pjt0001\Lec14Pjt0001\Lec14Pjt0001\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\CSharp\Xamarin_forms\Lec14Pjt0001\Lec14Pjt0001\Lec14Pjt0001\obj\Debug\netstandard2.0\Lec14Pjt0001.AssemblyInfoInputs.cache
+C:\CSharp\Xamarin_forms\Lec14Pjt0001\Lec14Pjt0001\Lec14Pjt0001\obj\Debug\netstandard2.0\Lec14Pjt0001.AssemblyInfo.cs
+C:\CSharp\Xamarin_forms\Lec14Pjt0001\Lec14Pjt0001\Lec14Pjt0001\obj\Debug\netstandard2.0\Lec14Pjt0001.csproj.CoreCompileInputs.cache
+C:\CSharp\Xamarin_forms\Lec14Pjt0001\Lec14Pjt0001\Lec14Pjt0001\obj\Debug\netstandard2.0\XamlC.stamp
+C:\CSharp\Xamarin_forms\Lec14Pjt0001\Lec14Pjt0001\Lec14Pjt0001\obj\Debug\netstandard2.0\Lec14Pjt0001.dll
+C:\CSharp\Xamarin_forms\Lec14Pjt0001\Lec14Pjt0001\Lec14Pjt0001\obj\Debug\netstandard2.0\ref\Lec14Pjt0001.dll
+C:\CSharp\Xamarin_forms\Lec14Pjt0001\Lec14Pjt0001\Lec14Pjt0001\obj\Debug\netstandard2.0\Lec14Pjt0001.pdb
+C:\CSharp\Xamarin_forms\Lec14Pjt0001\Lec14Pjt0001\Lec14Pjt0001\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs
+C:\CSharp\Xamarin_forms\Lec14Pjt0001\Lec14Pjt0001\Lec14Pjt0001\obj\Debug\netstandard2.0\ThirdPage.xaml.g.cs
