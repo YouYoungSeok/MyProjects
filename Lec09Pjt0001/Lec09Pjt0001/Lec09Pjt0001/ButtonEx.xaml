@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lec09Pjt0001.ButtonEx">
+    <ContentPage.Content>
+        <StackLayout>
+            <!--버튼01 클릭 이벤트 생성-->
+            <!-- <Button Text="버튼01" Clicked="Button1_Clicked"/>
+            <Button Text="버튼02" BackgroundColor="#ff0000" Clicked="Button2_Clicked"/>
+            <Button Text="버튼03" BackgroundColor="#0000ff" Clicked="Button3_Clicked"/>-->
+
+            <Button x:Name="btn01" Text="btn01" Clicked="OnClickedBtn"/>
+            <Button x:Name="btn02" Text="btn02" BackgroundColor="#ff0000" Clicked="OnClickedBtn"/>
+            <Button x:Name="btn03" Text="btn03" BackgroundColor="#0000ff" Clicked="OnClickedBtn"/>
+            
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

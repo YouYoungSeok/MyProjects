@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lec09Pjt0001.LabelEx">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical" BackgroundColor="#ccccccc">
+            
+         <!--   <Label Text="Label01" Margin="40" Padding="20" BackgroundColor="#000fff" 
+                   HorizontalTextAlignment="Center" FontSize="25" TextColor="#ff0000"/> -->
+            
+            <!-- 세로 -->
+            <!-- <Label Text="Label01"  Padding="20" BackgroundColor="#ffff00" 
+                   HorizontalOptions="Fill" />
+
+            <Label Text="Label02"  Padding="20" BackgroundColor="#ffff00" 
+                   HorizontalOptions="Start" />
+
+            <Label Text="Label03"  Padding="20" BackgroundColor="#ffff00" 
+                   HorizontalOptions="End" />
+
+            <Label Text="Label04"  Padding="20" BackgroundColor="#ffff00" 
+                   HorizontalOptions="Center" /> -->
+            
+            <!--가로 -->
+            <Label Text="Label01"  Padding="10" BackgroundColor="#ffff00" 
+                   VerticalOptions="CenterAndExpand" />
+
+            <Label Text="Label02"  Padding="10" BackgroundColor="#ffff00" 
+                   VerticalOptions="CenterAndExpand" />
+
+            <Label Text="Label03"  Padding="10" BackgroundColor="#ffff00" 
+                   VerticalOptions="CenterAndExpand" />
+
+            <Label Text="Label04"  Padding="10" BackgroundColor="#ffff00" 
+                   VerticalOptions="CenterAndExpand" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
