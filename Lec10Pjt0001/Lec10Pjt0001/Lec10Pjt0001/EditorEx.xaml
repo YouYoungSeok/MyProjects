@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lec10Pjt0001.EditorEx">
+    <ContentPage.Content>
+        <StackLayout>
+            <Editor BackgroundColor="#ffff00"
+                    TextColor="#000fff"
+                    FontAttributes="Bold"
+                    Placeholder="메세지를 입력해주세요."
+                    IsReadOnly="True"/>
+
+            <Editor x:Name="eMSG"
+                    BackgroundColor="#fff"
+                    Placeholder="메세지를 여기에다 입력해주세요."
+                    VerticalOptions="FillAndExpand"/>
+
+            <Button Text="완료" Clicked="Button_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

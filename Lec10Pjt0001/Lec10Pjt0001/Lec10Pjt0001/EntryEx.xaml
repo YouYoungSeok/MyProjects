@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lec10Pjt0001.EntryEx">
+    <ContentPage.Content>
+        <StackLayout Padding="25">
+            <Label Text="Name" />
+            <Entry x:Name="eName" Keyboard="Default"/><!--입력할 수 있는자판 키보드 출력 타입 설정 가능-->
+
+            <Label Text="ID" />
+            <Entry x:Name="eID" Keyboard="Text"/>
+
+            <Label Text="EMail" />
+            <Entry x:Name="eMail" Keyboard="Email"/>
+
+            <Label Text="Major" />
+            <Entry x:Name="eMajor" Keyboard="Text"/>
+
+            <Label Text="Phone" />
+            <Entry x:Name="ePhone" Keyboard="Telephone"/>
+
+            <Label Text="Grade" />
+            <Entry x:Name="eGrade" Keyboard="Numeric"/>
+
+            <Button x:Name="BtnConfirm" Text="완료" Clicked="BtnConfirm_Clicked"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
