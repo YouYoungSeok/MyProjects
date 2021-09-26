@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lec11Pjt0001.CheckBoxEx">
+    <ContentPage.Content>
+        <StackLayout Padding="35" BackgroundColor="#cccccc">
+            <StackLayout Orientation="Horizontal" Padding="15" BackgroundColor="#fff">
+                <Label Text="햄버거" FontSize="20" Margin="5, 0, 0, 0 " TextColor="#00f"/>
+                <CheckBox x:Name="chbHamburger" Color="#00f" HorizontalOptions="EndAndExpand"
+                          CheckedChanged="chbHamburger_CheckedChanged"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" Padding="15" BackgroundColor="#fff">
+                <Label Text="감자튀김" FontSize="20" Margin="5, 0, 0, 0 " TextColor="#00f"/>
+                <CheckBox x:Name="chbFrenchfries" Color="#00f" HorizontalOptions="EndAndExpand"
+                          CheckedChanged="chbHamburger_CheckedChanged"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" Padding="15" BackgroundColor="#fff">
+                <Label Text="콜라" FontSize="20" Margin="5, 0, 0, 0 " TextColor="#00f"/>
+                <CheckBox x:Name="chbCoke" Color="#00f" HorizontalOptions="EndAndExpand"
+                          CheckedChanged="chbHamburger_CheckedChanged"/>
+            </StackLayout>
+
+            <Label x:Name="labelMenu" FontSize="20" BackgroundColor="#fff" />
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

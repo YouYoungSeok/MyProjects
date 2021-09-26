@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lec11Pjt0001.SwitchEx">
+    <ContentPage.Content>
+        <StackLayout Padding="30">
+            <StackLayout Orientation="Horizontal" BackgroundColor="#cccccc" Padding="20">
+                <Label Text="햄버거" FontSize="20"/>
+                <Switch x:Name="st01" HorizontalOptions="EndAndExpand" 
+                        Toggled="st01_Toggled"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" BackgroundColor="#cccccc" Padding="20">
+                <Label Text="감자튀김" FontSize="20"/>
+                <Switch x:Name="st02" HorizontalOptions="EndAndExpand" 
+                        Toggled="st01_Toggled"/>
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal" BackgroundColor="#cccccc" Padding="20">
+                    <Label Text="콜라" FontSize="20"/>
+                    <Switch x:Name="st03" 
+                            HorizontalOptions="EndAndExpand" 
+                            Toggled="st01_Toggled"/>
+            </StackLayout>
+
+                <Label x:Name="LabelMenu" Padding="10" FontSize="15" FontAttributes="Bold"
+                       BackgroundColor="#f00" TextColor="#fff"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

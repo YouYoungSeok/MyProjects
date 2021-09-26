@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lec11Pjt0001.SliderEx">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#cccccc" Padding="40">
+            <Label Text="Slider01 값 (0에서 ~ 1까지)" />
+            <Entry x:Name="entry01"
+                   Placeholder="Slider01 값"/>
+            <Slider x:Name="slider01" ValueChanged="slider01_ValueChanged"/>
+
+                <Label Text="Slider02 값 (0에서 ~ 10까지)" Margin="0, 30, 0, 0"/>
+                <Entry x:Name="entry02"
+                   Placeholder="Slider02 값"/>
+                <Slider x:Name="slider02" ValueChanged="slider01_ValueChanged"
+                        Maximum="10"
+                        Minimum="1"/><!--최소값 1 / 최대값 10까지 설정-->
+            </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
