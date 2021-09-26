@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lec13Pjt0001.TimePickerEx">
+    <ContentPage.Content>
+        <StackLayout><!--Time : 초기 세팅 시간-->
+            <TimePicker x:Name="tpicker01" Time="15:30:40" HorizontalOptions="Center" FontSize="30" Format="HH : mm : ss" 
+                        PropertyChanged="tpicker_PropertyChanged"/>
+
+            <Label x:Name="label01" Padding="25" FontSize="25" TextColor="#fff" FontAttributes="Bold" 
+                   BackgroundColor="#ffff00" HorizontalOptions="Center"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
