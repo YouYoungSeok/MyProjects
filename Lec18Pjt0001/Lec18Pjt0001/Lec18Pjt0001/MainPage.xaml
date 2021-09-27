@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lec18Pjt0001.MainPage"
+             Padding="10">
+
+    <StackLayout BackgroundColor="#ff0">
+        
+        <Label x:Name="label01" Text="Hello Xamarin" HorizontalOptions="FillAndExpand" 
+               BackgroundColor="#f00" Padding="20" FontSize="20" FontAttributes="Bold" TextColor="#fff"/>
+
+        <Button x:Name="btn01" Text="Button 1" HorizontalOptions="FillAndExpand" 
+                BackgroundColor="#f00" Padding="20" FontSize="20" TextColor="#fff" FontAttributes="Bold"/>
+
+        <Label x:Name="label02" Text="Hello Xamarin" HorizontalOptions="FillAndExpand" 
+               BackgroundColor="#0f0" Padding="10" FontSize="15" FontAttributes="Bold" TextColor="#fff"/>
+
+        <Button x:Name="btn02" Text="Button 1" HorizontalOptions="FillAndExpand" 
+                BackgroundColor="#0f0" Padding="10" FontSize="15" TextColor="#fff" FontAttributes="Bold"/>
+
+        <Label x:Name="label03" Text="Hello Xamarin" HorizontalOptions="FillAndExpand" 
+               BackgroundColor="#00f" Padding="5" FontSize="8" FontAttributes="Bold" TextColor="#fff"/>
+
+        <Button x:Name="btn03" Text="Button 1" HorizontalOptions="FillAndExpand" 
+                BackgroundColor="#00f" Padding="5" FontSize="8" TextColor="#fff" FontAttributes="Bold"/>
+    </StackLayout>
+
+</ContentPage>
