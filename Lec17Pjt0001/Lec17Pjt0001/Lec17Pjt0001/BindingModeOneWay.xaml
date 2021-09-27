@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lec17Pjt0001.BindingModeOneWay"
+             BackgroundColor="#f88">
+    
+    <ContentPage.Content>
+        <StackLayout>
+            
+            <Label x:Name="lable01" Text="안녕하세요." FontAttributes="Bold" HorizontalOptions="Center" TextColor="#f00"
+                   Padding="{Binding Source={x:Reference Name=slider01}, Path=Value}" BackgroundColor="#fff"/>
+
+            <Label x:Name="lable02" Text="반갑습니다." FontAttributes="Bold" HorizontalOptions="Center" TextColor="#f00"
+                   FontSize="{Binding Source={x:Reference Name=slider01}, Path=Value}" BackgroundColor="#fff"/>
+
+            <Slider x:Name="slider01" Maximum="36" Minimum="12"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
