@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lec19Pjt0001.MainPage"
+             xmlns:local="clr-namespace:Lec19Pjt0001"
+             Padding="10">
+
+    <StackLayout BackgroundColor="#ff0">
+
+        <Label x:Name="label01" Text="Hello Xamarin" HorizontalOptions="FillAndExpand" 
+               BackgroundColor="{x:Static local:ResourceCls.BackgroundcolorRed}" Padding="{x:Static local:ResourceCls.PaddingBig}" 
+               FontSize="{x:Static local:ResourceCls.FontSizeBig}" FontAttributes="{x:Static local:ResourceCls.FontAttributesResBold}" 
+               TextColor="{x:Static local:ResourceCls.TextColorBlack}"/>
+
+        <Button x:Name="btn01" Text="Button 1" HorizontalOptions="FillAndExpand" 
+                BackgroundColor="{x:Static local:ResourceCls.BackgroundcolorRed}" Padding="{x:Static local:ResourceCls.PaddingBig}" 
+                FontSize="{x:Static local:ResourceCls.FontSizeBig}" TextColor="{x:Static local:ResourceCls.TextColorBlack}" 
+                FontAttributes="{x:Static local:ResourceCls.FontAttributesResBold}"/>
+
+        <Label x:Name="label02" Text="Hello Xamarin" HorizontalOptions="FillAndExpand" 
+               BackgroundColor="{x:Static local:ResourceCls.BackgroundcolorGreen}" Padding="{x:Static local:ResourceCls.PaddingNormal}" 
+               FontSize="{x:Static local:ResourceCls.FontSizeNormal}" FontAttributes="{x:Static local:ResourceCls.FontAttributesResItalic}" 
+               TextColor="{x:Static local:ResourceCls.TextColorWhire}"/>
+
+        <Button x:Name="btn02" Text="Button 1" HorizontalOptions="FillAndExpand" 
+                BackgroundColor="{x:Static local:ResourceCls.BackgroundcolorGreen}" Padding="{x:Static local:ResourceCls.PaddingNormal}" 
+                FontSize="{x:Static local:ResourceCls.FontSizeNormal}" TextColor="{x:Static local:ResourceCls.TextColorWhire}" 
+                FontAttributes="{x:Static local:ResourceCls.FontAttributesResItalic}"/>
+
+        <Label x:Name="label03" Text="Hello Xamarin" HorizontalOptions="FillAndExpand" 
+               BackgroundColor="{x:Static local:ResourceCls.BackgroundcolorBlue}" Padding="{x:Static local:ResourceCls.PaddingSmall}" 
+               FontSize="{x:Static local:ResourceCls.FontSizeSmall}" FontAttributes="{x:Static local:ResourceCls.FontAttributesResBoldItalic}" 
+               TextColor="{x:Static local:ResourceCls.TextColorGray}"/>
+
+        <Button x:Name="btn03" Text="Button 1" HorizontalOptions="FillAndExpand" 
+                BackgroundColor="{x:Static local:ResourceCls.BackgroundcolorBlue}" Padding="{x:Static local:ResourceCls.PaddingSmall}" 
+                FontSize="{x:Static local:ResourceCls.FontSizeSmall}" TextColor="{x:Static local:ResourceCls.TextColorGray}" 
+                FontAttributes="{x:Static local:ResourceCls.FontAttributesResBoldItalic}"/>
+    </StackLayout>
+
+</ContentPage>
