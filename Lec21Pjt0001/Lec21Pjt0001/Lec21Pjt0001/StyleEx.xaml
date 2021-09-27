@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Lec21Pjt0001.StyleEx"
+             Padding="10">
+    
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="mainTitleStyle" TargetType="Label">
+                <Setter Property="TextColor" Value="#fff"/>
+                <Setter Property="FontSize" Value="30"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="Padding" Value="5"/>
+                <Setter Property="BackgroundColor" Value="#f00"/>
+                <Setter Property="HorizontalTextAlignment" Value="End"/>
+            </Style>
+
+            <Style x:Key="subTitleStyle" TargetType="Label">
+                <Setter Property="TextColor" Value="#fff"/>
+                <Setter Property="FontSize" Value="20"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="Padding" Value="5, 5, 20, 5"/>
+                <Setter Property="BackgroundColor" Value="#900"/>
+                <Setter Property="HorizontalTextAlignment" Value="End"/>
+            </Style>
+
+            <Style x:Key="articleStyle" TargetType="Label">
+                <Setter Property="TextColor" Value="#fff"/>
+                <Setter Property="FontSize" Value="14"/>
+                <Setter Property="FontAttributes" Value="None"/>
+                <Setter Property="Padding" Value="5, 5, 35, 5"/>
+                <Setter Property="BackgroundColor" Value="#500"/>
+                <Setter Property="HorizontalTextAlignment" Value="End"/>
+            </Style>
+
+            <Style x:Key="moreBtnStyle" TargetType="Button">
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="HorizontalOptions" Value="Start"/>
+                <Setter Property="BackgroundColor" Value="#00f"/>
+                <Setter Property="TextColor" Value="#fff"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <StackLayout>
+        <Label x:Name="mainTitle01"
+               Text="Main Title"
+               Style="{StaticResource mainTitleStyle}"/>
+
+        <Label x:Name="subTitle01"
+               Text="Sub Title"
+               Style="{StaticResource subTitleStyle}"/>
+
+        <Label x:Name="article01"
+               Text="자마린(Xamarin)은 2011년 5월, Mono, MonoTouch, Mono for Android 개발자인 미구엘 데 이카사에 의해 설립된 기업이다."
+               Style="{StaticResource articleStyle}"/>
+        <Button x:Name="btn01"
+                Text="more"
+                Style="{StaticResource moreBtnStyle}"/>
+
+        <Label x:Name="mainTitle02"
+               Text="Main Title"
+               Style="{StaticResource mainTitleStyle}"/>
+
+        <Label x:Name="subTitle02"
+               Text="Sub Title"
+               Style="{StaticResource subTitleStyle}"/>
+
+        <Label x:Name="article02"
+               Text="이러한 3 개의 소프트웨어는 공통 언어 기반으로 크로스 플랫폼을 구현하기 위해 만들어졌다."
+               Style="{StaticResource articleStyle}"/>
+        <Button x:Name="btn02"
+                Text="more"
+                Style="{StaticResource moreBtnStyle}"/>
+
+    </StackLayout>
+
+</ContentPage>
